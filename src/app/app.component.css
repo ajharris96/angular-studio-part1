@@ -3,5 +3,22 @@
     padding: 25px;
     margin: 10px;
     border: double;
+    text-align:center;
+    
  }
 
+#left {
+    float:left;
+    width:200px;
+}
+
+#center {
+    display: inline-block;
+    margin:0 auto;
+    width:200px;
+}
+
+#right {
+    float:right;
+    width:200px;
+}
